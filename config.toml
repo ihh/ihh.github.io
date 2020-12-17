@@ -1,0 +1,128 @@
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "http://example.org/"
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "Holmes Lab"
+math = true
+copyright = "&copy; Ian Holmes, 2020 "
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of Ian Holmes research group"
+  author = "Ian Holmes"
+  email = "ihh@berkeley.edu"
+  address = "381 Stanley Hall, University of California, Berkeley"
+
+  slogan = "Holmes Lab"
+  slogan_text = "Computational Biology Research"
+
+  [[params.slogan_columns]]
+    text =  "Genomes are a living record of ecological history, and an open frontier for engineering and medicine. Our UC Berkeley lab makes the software that allows scientists to study, interpret, and shape this world."
+    link = "/#projects"
+    link_text = "Current projects"
+    weight = 1
+
+  [[params.slogan_columns]]
+    text =  "We develop algorithms and tools for genome informatics, using techniques from Bayesian statistics and deep learning through to modern web development. We're particularly interested in applications to cancer genomics, virus evolution, and protein engineering."
+    link = "/#publications"
+    link_text = "Selected papers"
+    weight = 1
+
+  [[params.slogan_columns]]
+    text =  "Our group is a mix of academics and research software engineers, working on multiple projects. We develop new algorithms and models, gather data on natural and synthetic sequences, and develop code to visualize and explore data."
+    link = "/#members"
+    link_text = "Meet the team"
+    weight = 1
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 5
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "More Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "Blog"
+    subtitle = ""
+    str_all = "More Posts"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Projects"
+    subtitle = ""
+    count = 4
+    str_all = "More Projects"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "/#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "Research"
+      url = "/research"
+      weight = 2
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/#publications"
+      weight = 3
+
+    [[menu.main]]
+      name = "Projects"
+      url = "/#projects"
+      weight = 4
+
+  [[menu.main]]
+      name = "Members"
+      url = "/#members"
+      weight = 5
+
+  [[menu.main]]
+      name = "Blog"
+      url = "/#posts"
+      weight = 6
+
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 7
