@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://example.org/"
+baseurl = "http://holmeslab.org/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Holmes Lab"
@@ -24,21 +24,21 @@ tag = "tags"
   slogan_text = "Computational Biology Research"
 
   [[params.slogan_columns]]
-    text =  "Genomes are a living record of ecological history, and an open frontier for engineering and medicine. Our UC Berkeley lab makes the software that allows scientists to study, interpret, and shape this world."
+    text =  "Genome sequences are fundamental to many fields: a living history of molecular evolution, a reference frame for medicine, a substrate for bioengineering. Our UC Berkeley-based team makes the software that empowers genome scientists to decode, analyze, annotate, and design these sequences."
     link = "/#projects"
     link_text = "Current projects"
     weight = 1
 
   [[params.slogan_columns]]
-    text =  "We develop algorithms and tools for genome informatics, using techniques from Bayesian statistics and deep learning through to modern web development. We're particularly interested in applications to cancer genomics, virus evolution, and protein engineering."
-    link = "/#publications"
-    link_text = "Selected papers"
+    text =  "Our group is a mix of academics and research software engineers, working on intersecting projects. We develop new algorithms and models, gather data on natural and synthetic sequences, and develop code to visualize and explore data."
+    link = "/#members"
+    link_text = "Meet the team"
     weight = 1
 
   [[params.slogan_columns]]
-    text =  "Our group is a mix of academics and research software engineers, working on multiple projects. We develop new algorithms and models, gather data on natural and synthetic sequences, and develop code to visualize and explore data."
-    link = "/#members"
-    link_text = "Meet the team"
+    text =  "We use techniques from Bayesian statistics and deep learning through to modern web development. Recent papers describe software for annotating genomes collaboratively over the web, reconstructing ancestral viruses, and designing protein libraries for directed evolution."
+    link = "/#publications"
+    link_text = "Selected papers"
     weight = 1
 
   # Selected Publications section.

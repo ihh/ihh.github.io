@@ -3,147 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/publication/automata/</loc>
+    <loc>http://holmeslab.org/publication/automata/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://holmeslab.org/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/</loc>
+    <loc>http://holmeslab.org/publication/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/machineboss/</loc>
+    <loc>http://holmeslab.org/publication/machineboss/</loc>
     <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/carnaval/</loc>
+    <loc>http://holmeslab.org/publication/carnaval/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/apollo/</loc>
+    <loc>http://holmeslab.org/publication/apollo/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/biomake/</loc>
+    <loc>http://holmeslab.org/publication/biomake/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://holmeslab.org/post/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/post2/</loc>
+    <loc>http://holmeslab.org/post/post2/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/ian/</loc>
+    <loc>http://holmeslab.org/member/ian/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/</loc>
+    <loc>http://holmeslab.org/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/notebook/</loc>
+    <loc>http://holmeslab.org/post/notebook/</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/post1/</loc>
+    <loc>http://holmeslab.org/post/post1/</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/jbrowse/</loc>
+    <loc>http://holmeslab.org/publication/jbrowse/</loc>
     <lastmod>2016-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/hubbell/</loc>
+    <loc>http://holmeslab.org/publication/hubbell/</loc>
     <lastmod>2015-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/aav/</loc>
+    <loc>http://holmeslab.org/publication/aav/</loc>
     <lastmod>2015-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://holmeslab.org/approach/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/approach/</loc>
+    <loc>http://holmeslab.org/mission/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/mission/</loc>
+    <loc>http://holmeslab.org/research/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/research/</loc>
-    <priority>0</priority>
+    <loc>http://holmeslab.org/vacancy/vacancy1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/vacancy/vacancy1/</loc>
+    <loc>http://holmeslab.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://holmeslab.org/member/member2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/member/member2/</loc>
+    <loc>http://holmeslab.org/project/evolution/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/project/evolution/</loc>
+    <loc>http://holmeslab.org/project/nanopore/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/project/nanopore/</loc>
+    <loc>http://holmeslab.org/project/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/project/</loc>
+    <loc>http://holmeslab.org/member/member3/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/member/member3/</loc>
+    <loc>http://holmeslab.org/project/protein/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/project/protein/</loc>
+    <loc>http://holmeslab.org/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://holmeslab.org/vacancy/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/vacancy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project/jbrowse/</loc>
+    <loc>http://holmeslab.org/project/jbrowse/</loc>
   </url>
   
 </urlset>

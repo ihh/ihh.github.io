@@ -4,7 +4,7 @@ external_link = ""
 image = ""
 participants = []
 project_id = "evolution"
-short_description = "Statistical phylogenetics, sequence alignment, and genome annotation"
+short_description = "What are the equations describing the dynamics of sequence evolution?"
 title = "Molecular Evolution"
 
 +++

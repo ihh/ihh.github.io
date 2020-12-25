@@ -2,139 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holmes Lab</title>
-    <link>http://example.org/</link>
+    <link>http://holmeslab.org/</link>
     <description>Recent content on Holmes Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Ian Holmes, 2020 </copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://holmeslab.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A model of indel evolution by finite-state, continuous-time machines</title>
-      <link>http://example.org/publication/automata/</link>
+      <link>http://holmeslab.org/publication/automata/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/automata/</guid>
+      <guid>http://holmeslab.org/publication/automata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Boss: rapid prototyping of bioinformatic automata</title>
-      <link>http://example.org/publication/machineboss/</link>
+      <link>http://holmeslab.org/publication/machineboss/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/machineboss/</guid>
+      <guid>http://holmeslab.org/publication/machineboss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular automata simulation of RNA self-replicators</title>
-      <link>http://example.org/publication/carnaval/</link>
+      <link>http://holmeslab.org/publication/carnaval/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/carnaval/</guid>
+      <guid>http://holmeslab.org/publication/carnaval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apollo: democratizing genome annotation</title>
-      <link>http://example.org/publication/apollo/</link>
+      <link>http://holmeslab.org/publication/apollo/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/apollo/</guid>
+      <guid>http://holmeslab.org/publication/apollo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BioMake: a GNU make-compatible utility for declarative workflow management</title>
-      <link>http://example.org/publication/biomake/</link>
+      <link>http://holmeslab.org/publication/biomake/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/biomake/</guid>
+      <guid>http://holmeslab.org/publication/biomake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test post please ignore</title>
-      <link>http://example.org/post/post2/</link>
+      <link>http://holmeslab.org/post/post2/</link>
       <pubDate>Tue, 12 Jul 2016 16:50:58 +0200</pubDate>
       
-      <guid>http://example.org/post/post2/</guid>
+      <guid>http://holmeslab.org/post/post2/</guid>
       <description>Est Procrin Terrigenam rorant colla victoria per monstra obiecit Lorem markdownum, Circaea: neque Phrygiae et bacarum caelo, iniectos. Ut tenvit per coniecta? Vagantem aut nunc velocibus praenuntia tenuit a Phoebi convicia mentis, conveniunt hunc! Supervolat domitis pronusque in artus, postquam videt et mediis. Pectine rigorem aethera, signum, saucia Salmacis si facibus pectore aversos gentes neve, et usus siqua.
 Aestuque deceant fuerat quam iura Rabie intus fugio potentia, protecta proculcat pelle, membris in praesens lustrantem ignis inmemores puer mitissima tenent.</description>
     </item>
     
     <item>
       <title>Ian Holmes</title>
-      <link>http://example.org/member/ian/</link>
+      <link>http://holmeslab.org/member/ian/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>http://example.org/member/ian/</guid>
+      <guid>http://holmeslab.org/member/ian/</guid>
       <description>In the 80&amp;rsquo;s, as an 8-bit game developer, I became interested in artificial life. In the 90&amp;rsquo;s I studied physics, then did a PhD on molecular evolution of transposons in the nematode genome, advised by Richard Durbin at the Sanger Institute. Then I came to Berkeley (via Los Alamos) to think about RNA.
 In 2004 I moved from my first faculty job at Oxford&amp;rsquo;s Department of Statistics (2002-2004) to join the faculty on UC Berkeley, going from a postdoc on an exchange visa (1999-2002) to co-chair of the Bioengineering PhD program (2019-23).</description>
     </item>
     
     <item>
       <title>Jupyter Notebook</title>
-      <link>http://example.org/post/notebook/</link>
+      <link>http://holmeslab.org/post/notebook/</link>
       <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
       
-      <guid>http://example.org/post/notebook/</guid>
+      <guid>http://holmeslab.org/post/notebook/</guid>
       <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.
  Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
     </item>
     
     <item>
       <title>Markdown ipsum</title>
-      <link>http://example.org/post/post1/</link>
+      <link>http://holmeslab.org/post/post1/</link>
       <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
       
-      <guid>http://example.org/post/post1/</guid>
+      <guid>http://holmeslab.org/post/post1/</guid>
       <description>Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub Spartana loca ignibus. In partibus muneris, paludes rara, plectrumque, fontis, concubitus a locoque demptos exclamat conde ab aethera nihil.
  Quamquam abit vulnere nec intus decidit clamor Nocuit quae tamen timent aperta Cervice preces totumque postquam nunc iacit sive Potestas te sis putaret sceleri totiens Retro profundo ad sede Iovem in este In ait flumina intrare Troiae  Ut fatis praecordia alvum iamque, adeo tympana male silvas.</description>
     </item>
     
     <item>
       <title>JBrowse: a dynamic web platform for genome visualization and analysis</title>
-      <link>http://example.org/publication/jbrowse/</link>
+      <link>http://holmeslab.org/publication/jbrowse/</link>
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/jbrowse/</guid>
+      <guid>http://holmeslab.org/publication/jbrowse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking statistical and ecological theory: Hubbell&#39;s unified neutral theory of biodiversity as a hierarchical Dirichlet process</title>
-      <link>http://example.org/publication/hubbell/</link>
+      <link>http://holmeslab.org/publication/hubbell/</link>
       <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/hubbell/</guid>
+      <guid>http://holmeslab.org/publication/hubbell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AAV ancestral reconstruction library enables selection of broadly infectious viral variants</title>
-      <link>http://example.org/publication/aav/</link>
+      <link>http://holmeslab.org/publication/aav/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/publication/aav/</guid>
+      <guid>http://holmeslab.org/publication/aav/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/about/</link>
+      <link>http://holmeslab.org/approach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description>Sed extemplo conantur et Cnosia harundine lyra Agros metitur venatibus catenis quippe honorem tuorum Lorem markdownum finemque prunaque longe et sunt. Sed super aulaea in Paridis noctisque cubile? Iacit coetus, vastatoremque dedit; Vidi magna, recurvatis copia. Quod sit; per cingo tamen Hyperionis si vacat inclitus instabat curaque arma saxea, naturaeque pondere quaeque aer!
- Agros apertum aliis dominaeque rapidus Prima nulla est Hortatibus voto  Anum istis praefertur est Quaque coeptis lumina mea nuda dentes semine agitavit, caesique voluptas.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/approach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/approach/</guid>
+      <guid>http://holmeslab.org/approach/</guid>
       <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
 Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
  Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
@@ -142,87 +132,87 @@ Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non.
     
     <item>
       <title></title>
-      <link>http://example.org/mission/</link>
+      <link>http://holmeslab.org/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/mission/</guid>
+      <guid>http://holmeslab.org/mission/</guid>
       <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!
 if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/research/</link>
+      <link>http://holmeslab.org/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/research/</guid>
+      <guid>http://holmeslab.org/research/</guid>
       <description>Research Biological applications  Cancer genomics Virus evolution Protein engineering  Tools and models  Deep learning Bayesian statistics Phylogenetics Web development  Projects  JBrowse Synthetic biology Evolution Nanopore  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/vacancy/vacancy1/</link>
+      <link>http://holmeslab.org/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/vacancy/vacancy1/</guid>
+      <guid>http://holmeslab.org/vacancy/vacancy1/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Jordi Silvestre-Ryan</title>
-      <link>http://example.org/member/member2/</link>
+      <link>http://holmeslab.org/member/member2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/member/member2/</guid>
+      <guid>http://holmeslab.org/member/member2/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Molecular Evolution</title>
-      <link>http://example.org/project/evolution/</link>
+      <link>http://holmeslab.org/project/evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/evolution/</guid>
+      <guid>http://holmeslab.org/project/evolution/</guid>
       <description>A natural question for a mathematical scientist, in any field with enough data, is: what are the underlying dynamics, and the equations describing them? For Newtonian systems, this gives us the laws of motion; for statistical mechanics, we get Brownian motion and diffusion.
 In molecular evolution, the underlying dynamics involve sequences, populations, and trees. The equations describe mutation of sequences, migration of lineages, and genealogical coalescence of samples. These equations are necessarily statistical in nature; both because evolution is inherently random, and also because (as in statistical physics) we can approximate a lot of the complicated deterministic parts with random models too.</description>
     </item>
     
     <item>
       <title>Nanopore Informatics</title>
-      <link>http://example.org/project/nanopore/</link>
+      <link>http://holmeslab.org/project/nanopore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/nanopore/</guid>
+      <guid>http://holmeslab.org/project/nanopore/</guid>
       <description> Single-molecule basecalling Discovery of structural variants Visualization of SVs Nanopore sequencing and directed evolution  </description>
     </item>
     
     <item>
       <title>Shihab Dider</title>
-      <link>http://example.org/member/member3/</link>
+      <link>http://holmeslab.org/member/member3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/member/member3/</guid>
+      <guid>http://holmeslab.org/member/member3/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Synthetic Biology</title>
-      <link>http://example.org/project/protein/</link>
+      <link>http://holmeslab.org/project/protein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/protein/</guid>
+      <guid>http://holmeslab.org/project/protein/</guid>
       <description> AAV capsid design Directed evolution: random library design  </description>
     </item>
     
     <item>
       <title>Web Genomics</title>
-      <link>http://example.org/project/jbrowse/</link>
+      <link>http://holmeslab.org/project/jbrowse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/jbrowse/</guid>
+      <guid>http://holmeslab.org/project/jbrowse/</guid>
       <description>At the end of the 20th century, bioinformatics hackers were also web pioneers, with our Perl scripts powering the likes of Amazon. Sadly, things have gone downhill (relatively speaking), and bioinformatics tools these days are generally not nearly as usable as consumer-facing websites.
 Our goal is to change that by taking front-end engineering as seriously, in genomics, as it is in Silicon Valley. JBrowse, our JavaScript genome browser, uses modern infrastructure (e.</description>
     </item>

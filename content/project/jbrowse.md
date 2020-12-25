@@ -4,7 +4,7 @@ external_link = ""
 image = ""
 participants = []
 project_id = "jbrowse"
-short_description = "The JBrowse genome browser and related tools"
+short_description = "Why shouldn't bioinformatics be as easy, intuitive, and collaborative as the rest of the web?"
 title = "Web Genomics"
 
 +++
