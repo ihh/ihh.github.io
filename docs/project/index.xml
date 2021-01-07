@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Holmes Lab</title>
+    <link>http://holmeslab.org/project/</link>
+    <description>Recent content in Projects on Holmes Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Ian Holmes, 2020 </copyright><atom:link href="http://holmeslab.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Molecular Evolution</title>
+      <link>http://holmeslab.org/project/evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://holmeslab.org/project/evolution/</guid>
+      <description>A natural question for a mathematical scientist, in any field with enough data, is: what are the underlying dynamics, and the equations describing them? For Newtonian systems, this gives us the laws of motion; for statistical mechanics, we get Brownian motion and diffusion.
+In molecular evolution, the underlying dynamics involve sequences, populations, and trees. The equations describe mutation of sequences, migration of lineages, and genealogical coalescence of samples. These equations are necessarily statistical in nature; both because evolution is inherently random, and also because (as in statistical physics) we can approximate a lot of the complicated deterministic parts with random models too.</description>
+    </item>
+    
+    <item>
+      <title>Nanopore Informatics</title>
+      <link>http://holmeslab.org/project/nanopore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://holmeslab.org/project/nanopore/</guid>
+      <description>Why long reads are important
+ Structural variants in cancer Directed evolution Metagenomics Immunogenomics  What projects we work on
+ Single-molecule basecalling Visualization of SVs Nanopore sequencing and directed evolution  </description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology</title>
+      <link>http://holmeslab.org/project/protein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://holmeslab.org/project/protein/</guid>
+      <description>Synthetic biology is fundamental to the technology of the 21st century. There are many challenges before we can realize rational design of biological systems. At the same time, biology allows for some additional engineering techniques, such as directed evolution, which have yet to be fully exploited.
+We are interested in developing bioinformatics tools and infrastructure for synthetic biology including AI, ontologies, information theory, statistical machine learning, deep learning, and web technology.</description>
+    </item>
+    
+    <item>
+      <title>Web Genomics</title>
+      <link>http://holmeslab.org/project/jbrowse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://holmeslab.org/project/jbrowse/</guid>
+      <description>Our work developing web-based visualizations of genomic data is based on observation of how the consumer web has transformed user interface design. Genome sciences are fundamental to the 21st century, so why shouldn&amp;rsquo;t genome scientsts enjoy web tools that are as sophisticated as those used for web-based word processors, spreadsheets, and maps?
+This is not just a frivolous issue: the consensus doctrine of web app design that has emerged in the early 21st century includes many lessons about issues such as navigational continuity and dynamic data representation.</description>
+    </item>
+    
+  </channel>
+</rss>
