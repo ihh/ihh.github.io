@@ -6,7 +6,16 @@
     <description>Recent content in Members on Holmes Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Ian Holmes, 2020 </copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://ihh.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ihh.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shihab Dider</title>
+      <link>https://ihh.github.io/member/shihab/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ihh.github.io/member/shihab/</guid>
+      <description>In college, I worked in the area of structural systems pharmacology, trying to understand the side-effects of common drugs (like Metformin) by examining the structure and function of their putative off-targets. Currently, I am working on algorithms and tools for facilitating genomics on the web, such as in-browser approximate alignment and track recommendation systems for genomic browsers.</description>
+    </item>
+    
     <item>
       <title>Ian Holmes</title>
       <link>https://ihh.github.io/member/ian/</link>
@@ -73,16 +82,6 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ihh.github.io/member/rob/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
-    </item>
-    
-    <item>
-      <title>Shihab Dider</title>
-      <link>https://ihh.github.io/member/shihab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ihh.github.io/member/shihab/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>

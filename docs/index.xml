@@ -46,6 +46,15 @@ JBrowse was originally an attempt to bring genome browsers up to the usability s
     </item>
     
     <item>
+      <title>Shihab Dider</title>
+      <link>https://ihh.github.io/member/shihab/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ihh.github.io/member/shihab/</guid>
+      <description>In college, I worked in the area of structural systems pharmacology, trying to understand the side-effects of common drugs (like Metformin) by examining the structure and function of their putative off-targets. Currently, I am working on algorithms and tools for facilitating genomics on the web, such as in-browser approximate alignment and track recommendation systems for genomic browsers.</description>
+    </item>
+    
+    <item>
       <title>Apollo: democratizing genome annotation</title>
       <link>https://ihh.github.io/publication/apollo/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
@@ -217,16 +226,6 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ihh.github.io/member/rob/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
-    </item>
-    
-    <item>
-      <title>Shihab Dider</title>
-      <link>https://ihh.github.io/member/shihab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ihh.github.io/member/shihab/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
