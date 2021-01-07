@@ -1,7 +1,7 @@
 +++
 bio = ""
 id = "teresa"
-interests = ["Bioinformatics", "Biomedical Imaging", "Web Dev"]
+interests = ["Bioinformatics", "Biomedical Imaging", "Web Development"]
 name = "Teresa De Jesus Martinez"
 portrait = "/portraits/teresa.jpg"
 short_bio = "My short bio. I am Teresa."
@@ -29,7 +29,7 @@ title = "Teresa De Jesus Martinez"
     link = "https://github.com/teresam856"
 
 [[education]]
-    course = "BA Bioengineering"
+    course = "BS Bioengineering"
     institution = 'University of California, Berkeley'
     year = 2018
 
