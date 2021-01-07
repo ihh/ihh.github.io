@@ -2,7 +2,7 @@ publishdir = "docs"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://holmeslab.org/"
+baseurl = "http://ihh.github.io/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Holmes Lab"
