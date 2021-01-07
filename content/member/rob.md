@@ -2,9 +2,9 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "rob"
-interests = ["Genomics", "Software Engineering", "Data Compression", "]
+interests = ["Genomics", "Software Engineering", "Data Compression"]
 name = "Robert Buels"
-portrait = "/portraits/rbuels.jpg"
+portrait = "/portraits/rob.jpg"
 short_bio = "Research software engineering lead, longtime JBrowse developer"
 short_name = "Rob"
 title = "Robert Buels"
