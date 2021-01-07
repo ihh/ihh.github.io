@@ -38,11 +38,11 @@ title = "Colin Diesh"
 
 I'm a self-styled "bioinformatics software engineer" for the JBrowse project. I
 became involved in bioinformatics in college, and did a senior thesis project
-analyzing ChIP-seq data. After gradudating, I attended the GMOD Summer School in
+analyzing ChIP-seq data. After graduating, I attended the GMOD Summer School in
 2013 which introduced me to JBrowse, WebApollo, and the rest.
 
 As a developer on the JBrowse project, I enjoy the high quality software
-engineering work that we do, and take pride in making a complex data
+engineering work that we do, and take pride in making complex data
 visualization easy and accessible. I also enjoy our team and the extended open
 source community we get to help everyday.
 
