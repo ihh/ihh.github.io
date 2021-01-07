@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Holmes Lab</title>
-    <link>http://ihh.github.io/publication/</link>
+    <link>https://ihh.github.io/publication/</link>
     <description>Recent content in Publications on Holmes Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Ian Holmes, 2020 </copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://ihh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ihh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A model of indel evolution by finite-state, continuous-time machines</title>
-      <link>http://ihh.github.io/publication/automata/</link>
+      <link>https://ihh.github.io/publication/automata/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/automata/</guid>
+      <guid>https://ihh.github.io/publication/automata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Boss: rapid prototyping of bioinformatic automata</title>
-      <link>http://ihh.github.io/publication/machineboss/</link>
+      <link>https://ihh.github.io/publication/machineboss/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/machineboss/</guid>
+      <guid>https://ihh.github.io/publication/machineboss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular automata simulation of RNA self-replicators</title>
-      <link>http://ihh.github.io/publication/carnaval/</link>
+      <link>https://ihh.github.io/publication/carnaval/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/carnaval/</guid>
+      <guid>https://ihh.github.io/publication/carnaval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apollo: democratizing genome annotation</title>
-      <link>http://ihh.github.io/publication/apollo/</link>
+      <link>https://ihh.github.io/publication/apollo/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/apollo/</guid>
+      <guid>https://ihh.github.io/publication/apollo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BioMake: a GNU make-compatible utility for declarative workflow management</title>
-      <link>http://ihh.github.io/publication/biomake/</link>
+      <link>https://ihh.github.io/publication/biomake/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/biomake/</guid>
+      <guid>https://ihh.github.io/publication/biomake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JBrowse: a dynamic web platform for genome visualization and analysis</title>
-      <link>http://ihh.github.io/publication/jbrowse/</link>
+      <link>https://ihh.github.io/publication/jbrowse/</link>
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/jbrowse/</guid>
+      <guid>https://ihh.github.io/publication/jbrowse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking statistical and ecological theory: Hubbell&#39;s unified neutral theory of biodiversity as a hierarchical Dirichlet process</title>
-      <link>http://ihh.github.io/publication/hubbell/</link>
+      <link>https://ihh.github.io/publication/hubbell/</link>
       <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/hubbell/</guid>
+      <guid>https://ihh.github.io/publication/hubbell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AAV ancestral reconstruction library enables selection of broadly infectious viral variants</title>
-      <link>http://ihh.github.io/publication/aav/</link>
+      <link>https://ihh.github.io/publication/aav/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ihh.github.io/publication/aav/</guid>
+      <guid>https://ihh.github.io/publication/aav/</guid>
       <description></description>
     </item>
     
