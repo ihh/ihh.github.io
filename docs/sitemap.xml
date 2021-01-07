@@ -106,22 +106,6 @@
   </url>
   
   <url>
-    <loc>https://ihh.github.io/member/jordi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ihh.github.io/project/evolution/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ihh.github.io/project/nanopore/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ihh.github.io/project/</loc>
-  </url>
-  
-  <url>
     <loc>https://ihh.github.io/member/colin/</loc>
   </url>
   
@@ -134,7 +118,23 @@
   </url>
   
   <url>
+    <loc>https://ihh.github.io/member/jordi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ihh.github.io/project/evolution/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ihh.github.io/project/nanopore/</loc>
+  </url>
+  
+  <url>
     <loc>https://ihh.github.io/member/peter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ihh.github.io/project/</loc>
   </url>
   
   <url>
@@ -146,15 +146,15 @@
   </url>
   
   <url>
-    <loc>https://ihh.github.io/member/teresa/</loc>
-  </url>
-  
-  <url>
     <loc>https://ihh.github.io/project/protein/</loc>
   </url>
   
   <url>
     <loc>https://ihh.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ihh.github.io/member/teresa/</loc>
   </url>
   
   <url>

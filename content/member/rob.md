@@ -1,12 +1,12 @@
 +++
 bio = ""
-id = "shihab"
+id = "rob"
 interests = ["Deep Learning", "Machine Learning", "Genomics"]
-name = "Shihab Dider"
-portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Shihab."
+name = "Rob Buels"
+portrait = "/portraits/rob.jpg"
+short_bio = "My short bio. I am Rob."
 short_name = ""
-title = "Shihab Dider"
+title = "Rob Buels"
 
 [[social]]
     icon = "envelope"
