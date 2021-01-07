@@ -44,5 +44,5 @@ As an undergraduate, I quickly became fascinated in the application of computer 
 
 Immediately after completing my degree at Berkeley, I moved to Washington D.C to work as a software engineer for a bank. During my time there, I began to experiment with web development tools and devOps to build full stack applications and micro services.
 
-I joined the JBrowse team in 2020 right before the first release of JBrowse2. As a developer for the JBrowse project, I really enjoy working and learning from a passionate team of individuals working to provide the open source community with high quality software. 
+I joined the JBrowse team in 2020 right before the first release of JBrowse2. As a developer for the JBrowse project, I really enjoy working and learning from a passionate team of individuals collaborating to provide the open source community with high quality software. 
 
