@@ -34,8 +34,6 @@ title = "Colin Diesh"
 
 +++
 
-# Bioinformatics software engineer
-
 I'm a self-styled "bioinformatics software engineer" for the JBrowse project. I
 became involved in bioinformatics in college, and did a senior thesis project
 analyzing ChIP-seq data. After graduating, I attended the GMOD Summer School in
