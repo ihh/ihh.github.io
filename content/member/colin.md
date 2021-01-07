@@ -34,8 +34,8 @@ title = "Colin Diesh"
     year = 2014
 
 [[organizations]]
-    name = "University of California, Center for Computational Biology"
-    role = "PhD Student"
+    name = "University of California, Department of Bioengineering"
+    role = "Software Developer"
 
 +++
 
