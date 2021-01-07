@@ -1,37 +1,32 @@
 +++
 bio = ""
-id = "shihab"
-interests = ["Deep Learning", "Machine Learning", "Genomics"]
+id = "colin"
+interests = ["Data visualization", "Frontend development", "Bioinformatics"]
 name = "Colin Diesh"
 portrait = "/portraits/colin.jpg"
-short_bio = "My short bio. I am Colin."
+short_bio = ""
 short_name = ""
 title = "Colin Diesh"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:colin.diesh@gmail.com"
 
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "//twitter.com/cmdcolin"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "//github.com/cmdcolin"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2014
+    course = "BS Computer Science"
+    institution = 'University of Colorado, Boulder'
+    year = 2013
 
 [[organizations]]
     name = "University of California, Department of Bioengineering"
@@ -39,61 +34,16 @@ title = "Colin Diesh"
 
 +++
 
-You can write $\LaTeX$ and *Markdown* here.
+# Bioinformatics software engineer
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+I'm a self-styled "bioinformatics software engineer" for the JBrowse project. I
+became involved in bioinformatics in college, and did a senior thesis project
+analyzing ChIP-seq data. After gradudating, I attended the GMOD Summer School in
+2013 which introduced me to JBrowse, WebApollo, and the rest.
 
-## Ait erili meruisse iactatis omnibus erat
+As a developer on the JBrowse project, I enjoy the high quality software
+engineering work that we do, and take pride in making a complex data
+visualization easy and accessible. I also enjoy our team and the extended open
+source community we get to help everyday.
 
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
-
-Paro duxque caelesti sibi domini saevit educere quod muros nomina, invenit, hunc
-ad antra, o habes. Pereo violenta penates. Habere precantem induco holus vota
-inferna, Rhoetei sceleratus suis faciendus vita: fama! Erat alta; ante tacito
-[erit excipit](http://tendebat.net/probatur.aspx), sua *ignarus* palato ventis
-cunctaque amor relevare igne. Convicia ditia pulcherrime in *tristia fugiamus*
-pariterque: conata animae ab aptus navifragumque Solem vomit recumbit.
-
-## Terribilem pars levius manus freta nec fraudes
-
-Arva mirum similis deducit; liquores ira. Caelo quae foramen cauda properabat,
-rabiem fors, **cum** in poste. Linguam nisi, nec aegros quis viros plura iam,
-ubi alipedi sumptis nocte. Tela ter sidera Telamon
-[tamen](http://aut-illa.net/et), miseri motu sibi quod dicere, **Aeacides**
-bellicus pater.
-
-    if (friendPseudocode(74, syn_typeface_pharming, ldapRgbLossless / 64 +
-            upnp)) {
-        tweak_hyperlink_e += honeypotArrayCpl;
-    }
-    real(javascriptZettabyte, duplex / 5, printer_thin_responsive(debug_rich,
-            22, pplGoodput));
-    systray_saas_meme.friendly_upload = irqLinux(copyright * cookie +
-            social_name_toolbar, cmyk);
-
-Meque genitor. Tacito miserabilis virgo: populos quem, habet odores orbem.
-Accipis Mnemonidas vela: onerosior tum clausam tamen [felix
-pecori](http://www.dryopen-quoque.net/), quod admovit edidit.
-
-1. Spargitque taurus
-2. Nec tibi vota gemini Echo
-3. Capillo thalamique
-4. Tergora quod haec mutataeque tamen effugit stare
-5. Laertiadaeque tulit causamque iuris
-
-Moribunda nec certe succedere mediam rediit locuta laudatis lacertos pecori unda
-positaeque verentur quos devertor Alcyone musta? Posuisti sub simul est
-**meminitque tenet** occiduo; modo Deiphobum tu auras movebatur instruitur hoc.
-Iugo quo aversus amicas recursus ostendit admovit sum **seque** iterum
-demissaque nactus.
+My homepage is at https://cmdcolin.github.io/
