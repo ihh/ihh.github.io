@@ -6,7 +6,16 @@
     <description>Recent content on Holmes Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Ian Holmes, 2020 </copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ihh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ihh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jordi Silvestre-Ryan</title>
+      <link>https://ihh.github.io/member/jordi/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ihh.github.io/member/jordi/</guid>
+      <description>I&amp;rsquo;m a PhD candidate in the joint UC Berkeley-UCSF Bioengineering program and am broadly interested in applications of deep learning to biology. During my PhD I&amp;rsquo;ve focused on computational approaches to improve the accuracy of nanopore sequencing. I also maintain interests in structural biology and data vizualization, and have developed a tool for making simplified cartoons of protein structure.</description>
+    </item>
+    
     <item>
       <title>A model of indel evolution by finite-state, continuous-time machines</title>
       <link>https://ihh.github.io/publication/automata/</link>
@@ -187,16 +196,6 @@ As a developer on the JBrowse project, I enjoy the high quality software enginee
       <guid>https://ihh.github.io/member/garrett/</guid>
       <description>After graduating with my undergraduate degree in physics (with an emphasis in biophysics), I found myself drawn toward genomics. That led me to pursue a Masters degree in Bioinformatics through Brandeis University&amp;rsquo;s online program, where I developed my passion for bioinformatics software.
 I joined the JBrowse team in 2018, just before work on JBrowse 2 started. I very much enjoy the remote format of the JBrowse development team, and am currently living in my home state of Utah.</description>
-    </item>
-    
-    <item>
-      <title>Jordi Silvestre-Ryan</title>
-      <link>https://ihh.github.io/member/jordi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ihh.github.io/member/jordi/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
