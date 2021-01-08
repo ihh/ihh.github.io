@@ -39,7 +39,6 @@ title = "Teresa De Jesus Martinez"
 
 +++
 
-# Biography
 As an undergraduate, I quickly became fascinated in the application of computer science to solve biology based problems which led to me to take interest in bioinformatics and biomedical imaging.
 
 Immediately after completing my degree at Berkeley, I moved to Washington D.C to work as a software engineer for a bank. During my time there, I began to experiment with web development tools and devOps to build full stack applications and micro services.
