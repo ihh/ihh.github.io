@@ -1,37 +1,37 @@
 +++
 bio = ""
 id = "elliot"
-interests = ["Deep Learning", "Machine Learning", "Genomics"]
+interests = ["Genomics", "Web Development", "Machine Learning", "Interactive Computing"]
 name = "Elliot Hershberg"
 portrait = "/portraits/elliot.png"
-short_bio = "My short bio. I am Elliot."
+short_bio = "Software Developer"
 short_name = ""
 title = "Elliot Hershberg"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:eahershberg@gmail.com"
 
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "//twitter.com/ElliotHershberg"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "//github.com/elliothershberg"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2014
+    course = "BS in Computer Science"
+    institution = "Oregon State University"
+    year = 2020
+
+[[education]]
+    course = "BA in Biology, Minor in Data Science"
+    institution = "Southwestern University"
+    year = 2018
 
 [[organizations]]
     name = "University of California, Department of Bioengineering"
@@ -39,61 +39,13 @@ title = "Elliot Hershberg"
 
 +++
 
-You can write $\LaTeX$ and *Markdown* here.
+I am a scientist and engineer with a broad range of experience in the life sciences and genomics. I have worked on problems
+ranging from basic science to technology development. I got my start in research studying the molecular genetics of
+cancer metastasis. After that, I worked on developing vaccines for cancer at the Cancer Vaccine Institute at the
+University of Washington. More recently, I worked as a Research Scientist/Engineer in the Department of Genome Sciences
+at the University of Washington. There, I created a bioinformatics pipeline and web application for oligonucleotide based
+imaging technologies.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+I was excited to join the JBrowse 2 team this year. It has been a great blend of science and engineering, encompassing
+everything from deep literature analysis to building developer tools and infrastructure.
 
-## Ait erili meruisse iactatis omnibus erat
-
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
-
-Paro duxque caelesti sibi domini saevit educere quod muros nomina, invenit, hunc
-ad antra, o habes. Pereo violenta penates. Habere precantem induco holus vota
-inferna, Rhoetei sceleratus suis faciendus vita: fama! Erat alta; ante tacito
-[erit excipit](http://tendebat.net/probatur.aspx), sua *ignarus* palato ventis
-cunctaque amor relevare igne. Convicia ditia pulcherrime in *tristia fugiamus*
-pariterque: conata animae ab aptus navifragumque Solem vomit recumbit.
-
-## Terribilem pars levius manus freta nec fraudes
-
-Arva mirum similis deducit; liquores ira. Caelo quae foramen cauda properabat,
-rabiem fors, **cum** in poste. Linguam nisi, nec aegros quis viros plura iam,
-ubi alipedi sumptis nocte. Tela ter sidera Telamon
-[tamen](http://aut-illa.net/et), miseri motu sibi quod dicere, **Aeacides**
-bellicus pater.
-
-    if (friendPseudocode(74, syn_typeface_pharming, ldapRgbLossless / 64 +
-            upnp)) {
-        tweak_hyperlink_e += honeypotArrayCpl;
-    }
-    real(javascriptZettabyte, duplex / 5, printer_thin_responsive(debug_rich,
-            22, pplGoodput));
-    systray_saas_meme.friendly_upload = irqLinux(copyright * cookie +
-            social_name_toolbar, cmyk);
-
-Meque genitor. Tacito miserabilis virgo: populos quem, habet odores orbem.
-Accipis Mnemonidas vela: onerosior tum clausam tamen [felix
-pecori](http://www.dryopen-quoque.net/), quod admovit edidit.
-
-1. Spargitque taurus
-2. Nec tibi vota gemini Echo
-3. Capillo thalamique
-4. Tergora quod haec mutataeque tamen effugit stare
-5. Laertiadaeque tulit causamque iuris
-
-Moribunda nec certe succedere mediam rediit locuta laudatis lacertos pecori unda
-positaeque verentur quos devertor Alcyone musta? Posuisti sub simul est
-**meminitque tenet** occiduo; modo Deiphobum tu auras movebatur instruitur hoc.
-Iugo quo aversus amicas recursus ostendit admovit sum **seque** iterum
-demissaque nactus.
