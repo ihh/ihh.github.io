@@ -9,12 +9,12 @@ publication = "ALIFE 2020: The 2020 Conference on Artificial Life"
 publication_short = ""
 selected = false
 title = "Cellular automata simulation of RNA self-replicators"
-#url_code = "//github.com"
+url_code = "https://github.com/evoldoers/carnaval"
 #url_dataset = ""
 url_pdf = "https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00242"
 #url_project = "/project/deeplearning"
 #url_slides = ""
-#url_video = ""
+url_video = "https://www.youtube.com/watch?v=2tiAEhZLLks"
 
 [[authors]]
     name = "Ian Holmes"

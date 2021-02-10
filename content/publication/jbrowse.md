@@ -9,10 +9,10 @@ publication = "Genome Biology"
 publication_short = ""
 selected = false
 title = "JBrowse: a dynamic web platform for genome visualization and analysis"
-#url_code = "//github.com"
+url_code = "https://github.com/gmod/jbrowse"
 #url_dataset = ""
 url_pdf = "https://pubmed.ncbi.nlm.nih.gov/27072794/"
-#url_project = "/project/deeplearning"
+url_project = "https://jbrowse.org/"
 #url_slides = ""
 #url_video = ""
 

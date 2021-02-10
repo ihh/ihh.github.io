@@ -9,10 +9,10 @@ publication = "PLoS Computational Biology"
 publication_short = ""
 selected = false
 title = "Apollo: democratizing genome annotation"
-#url_code = "//github.com"
+url_code = "https://github.com/GMOD/Apollo"
 #url_dataset = ""
 url_pdf = "https://pubmed.ncbi.nlm.nih.gov/30726205/"
-#url_project = "/project/deeplearning"
+url_project = "http://genomearchitect.org/"
 #url_slides = ""
 #url_video = ""
 
