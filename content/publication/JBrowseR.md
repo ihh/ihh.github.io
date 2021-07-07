@@ -1,8 +1,5 @@
 +++
-abstract = "Genome browsers are an essential tool in genome analysis. Modern genome browsers enable complex and interactive visualization of a wide variety of genomic data modalities. While such browsers are very powerful, they can be challenging to configure and program for bioinformaticians lacking expertise in web development.
-
-We have developed an R package that provides an interface to the JBrowse 2 genome browser. The package can be used to configure and customize the browser entirely with R code. The browser can be deployed from the R console, or embedded in Shiny applications or R Markdown documents.
-"
+abstract = "Genome browsers are an essential tool in genome analysis. Modern genome browsers enable complex and interactive visualization of a wide variety of genomic data modalities. While such browsers are very powerful, they can be challenging to configure and program for bioinformaticians lacking expertise in web development. We have developed an R package that provides an interface to the JBrowse 2 genome browser. The package can be used to configure and customize the browser entirely with R code. The browser can be deployed from the R console, or embedded in Shiny applications or R Markdown documents."
 abstract_short = "JBrowseR provides an R Interface to the JBrowse 2 Genome Browser"
 date = "2021-07-01"
 image = ""
