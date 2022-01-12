@@ -22,7 +22,7 @@ link = "https://github.com/AnnabelLarge"
 [[social]]
 icon = "globe"
 icon_pack = "fa"
-link = "https://www.notion.so/About-me-006294ae3b5b4284a8a37e1223606e1b"
+link = "https://alarge.notion.site/"
 
 [[education]]
 course = "B.S. in Chemical Engineering"
