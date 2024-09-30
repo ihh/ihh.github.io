@@ -1,0 +1,17 @@
++++ bio = "" date = "2024-09-21" id = "quin" interests = ["engineered oligonucleotides", "epigenetics", "aptamer sequence prediction", "Machine Learning"] name = "Quin Lamothe" portrait = "/portraits/quin.jpg" short_bio = "" short_name = "" title = "Quin Lamothe"
+
+[[social]] icon = "envelope" icon_pack = "fa" link = "mailto:quin_lamothe@berkeley.edu"
+
+[[social]] icon = "github" icon_pack = "fa" link = "https://github.com/Alepidoptera7"
+
+[[social]] icon = "linkedin" icon_pack = "fa" link = "https://www.linkedin.com/in/quin-lamothe/"
+
+[[education]] course = "B.S. in Biomolecular Engineering and Bioinformatics, B.A. in Computational Mathematics" institution = 'University of California, Santa Cruz' year = 2022
+
+[[organizations]] name = "Bioinformatics and Computational Biology" role = "MEng Candidate"
+
++++
+
+Quin Lamothe is currently an MEng Bioengineering - Bioinformatics and Computational Biology student, managing three guilds converging on topics related to machine learning applications in cancer and functional genomics.
+Primary research interests pertain to computational methods of predicting effective aptamer and ASO sequences, high throughput data mining, and artificial biology to mimic biological processes.
+Hobbies include refurbishing a 1972 econoline, spending time with cats, playing banjo and violin, propagating carnivorous plants and mycology.    
