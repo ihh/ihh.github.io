@@ -37,10 +37,10 @@ In my free time, I enjoy exploring the Bay Area, folding origami, and a host of 
     
     <item>
       <title>Jordi Silvestre-Ryan</title>
-      <link>https://ihh.github.io/member/jordi/</link>
+      <link>https://ihh.github.io/alumni/jordi/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ihh.github.io/member/jordi/</guid>
+      <guid>https://ihh.github.io/alumni/jordi/</guid>
       <description>I&amp;rsquo;m a PhD candidate in the joint UC Berkeley-UCSF Bioengineering program and am broadly interested in applications of deep learning to biology. During my PhD I&amp;rsquo;ve focused on computational approaches to improve the accuracy of nanopore sequencing. I also maintain interests in structural biology and data vizualization, and have developed a tool for making simplified cartoons of protein structure.</description>
     </item>
     
@@ -84,10 +84,10 @@ JBrowse was originally an attempt to bring genome browsers up to the usability s
     
     <item>
       <title>Shihab Dider</title>
-      <link>https://ihh.github.io/member/shihab/</link>
+      <link>https://ihh.github.io/alumni/shihab/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ihh.github.io/member/shihab/</guid>
+      <guid>https://ihh.github.io/alumni/shihab/</guid>
       <description>In college, I worked in the area of structural systems pharmacology, trying to understand the side-effects of common drugs (like Metformin) by examining the structure and function of their putative off-targets. Currently, I am working on algorithms and tools for facilitating genomics on the web, such as in-browser approximate alignment and track recommendation systems for genomic browsers.</description>
     </item>
     
@@ -130,10 +130,10 @@ In 2004 I moved from my first faculty job at Oxford&amp;rsquo;s Department of St
     
     <item>
       <title>Robert Buels</title>
-      <link>https://ihh.github.io/member/rob/</link>
+      <link>https://ihh.github.io/alumni/rob/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://ihh.github.io/member/rob/</guid>
+      <guid>https://ihh.github.io/alumni/rob/</guid>
       <description>I got my start in genomics right out of school as a software engineer at the Sol Genomics Network, and I&amp;rsquo;ve been in research software engineering ever since, with one tour of duty in industry at Foundation Medicine.
 I&amp;rsquo;ve been involved with JBrowse since 2012, and now I am the software team lead for JBrowse 2.
 I&amp;rsquo;m much more of an engineer and software architect than a scientist, but I understand enough of the science to be dangerous.</description>
@@ -218,10 +218,10 @@ As a developer on the JBrowse project, I enjoy the high quality software enginee
     
     <item>
       <title>Elliot Hershberg</title>
-      <link>https://ihh.github.io/member/elliot/</link>
+      <link>https://ihh.github.io/alumni/elliot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ihh.github.io/member/elliot/</guid>
+      <guid>https://ihh.github.io/alumni/elliot/</guid>
       <description>I am a scientist and engineer with a broad range of experience in the life sciences and genomics. I have worked on problems ranging from basic science to technology development. I got my start in research studying the molecular genetics of cancer metastasis. After that, I worked on developing vaccines for cancer at the Cancer Vaccine Institute at the University of Washington. More recently, I worked as a Research Scientist/Engineer in the Department of Genome Sciences at the University of Washington.</description>
     </item>
     
@@ -231,8 +231,9 @@ As a developer on the JBrowse project, I enjoy the high quality software enginee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ihh.github.io/member/garrett/</guid>
-      <description>After graduating with my undergraduate degree in physics (with an emphasis in biophysics), I found myself drawn toward genomics. That led me to pursue a Masters degree in Bioinformatics through Brandeis University&amp;rsquo;s online program, where I developed my passion for bioinformatics software.
-I joined the JBrowse team in 2018, just before work on JBrowse 2 started. I very much enjoy the remote format of the JBrowse development team, and am currently living in my home state of Utah.</description>
+      <description>I joined the Holmes Lab as a JBrowse developer in 2018, just before work on JBrowse 2 started. After JBrowse 2 was released, my role switched to working on Apollo, and I am currently the lead developer for Apollo 3.
+Prior to joining the lab, I was a bioinformatics developer at a small startup company. I&amp;rsquo;ve also worked as a technician in a DNA sequencing wet lab.
+I&amp;rsquo;m a remote member of the lab and live in my home state of Utah, so you&amp;rsquo;re not likely to run into me on campus.</description>
     </item>
     
     <item>
@@ -258,10 +259,10 @@ In molecular evolution, the underlying dynamics involve sequences, populations, 
     
     <item>
       <title>Peter Xie</title>
-      <link>https://ihh.github.io/member/peter/</link>
+      <link>https://ihh.github.io/alumni/peter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ihh.github.io/member/peter/</guid>
+      <guid>https://ihh.github.io/alumni/peter/</guid>
       <description>I joined the JBrowse team in late 2019 in the midst of getting JBrowse 2 Web ready for release. I have been involved in bioinformatics and software development since college as it was a perfect blend of my major and minor. I started gravitating towards software development in my professional life which lead me to working with JBrowse. As a developer I enjoy working in a closely knit team where each member is passionate about the project and helping out the open source community.</description>
     </item>
     
@@ -277,10 +278,10 @@ We are interested in developing bioinformatics tools and infrastructure for synt
     
     <item>
       <title>Teresa De Jesus Martinez</title>
-      <link>https://ihh.github.io/member/teresa/</link>
+      <link>https://ihh.github.io/alumni/teresa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ihh.github.io/member/teresa/</guid>
+      <guid>https://ihh.github.io/alumni/teresa/</guid>
       <description>As an undergraduate, I quickly became fascinated in the application of computer science to solve biology based problems which led to me to take interest in bioinformatics and biomedical imaging.
 After completing my degree at Berkeley, I moved to Washington D.C to work as a software engineer. During my time there, I began to experiment with web development tools and devOps to build full stack applications and micro services.
 I joined the JBrowse team in 2020 right before the first release of JBrowse2.</description>
