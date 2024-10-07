@@ -4,19 +4,14 @@ id = "garrett"
 interests = ["Bioinformatics", "Web Development", "Japanese"]
 name = "Garrett Stevens"
 portrait = "/portraits/garrett.jpg"
-short_bio = "JBrowse Developer"
+short_bio = "Apollo and JBrowse Developer"
 short_name = ""
 title = "Garrett Stevens"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:stevens.garrett.j@gmail.com"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/gjstevens7"
+    link = "mailto:garrett.stevens@berkeley.edu"
 
 [[social]]
     icon = "github"
@@ -35,15 +30,17 @@ title = "Garrett Stevens"
 
 [[organizations]]
     name = "UC Berkeley"
-    role = "Software Developer"
+    role = "Research Software Engineer"
 
 +++
 
-After graduating with my undergraduate degree in physics (with an emphasis in
-biophysics), I found myself drawn toward genomics. That led me to pursue a
-Masters degree in Bioinformatics through Brandeis University's online program,
-where I developed my passion for bioinformatics software.
+I joined the Holmes Lab as a JBrowse developer in 2018, just before work on
+[JBrowse 2](https://jbrowse.org/jb2/) started. After JBrowse 2 was released, my
+role switched to working on Apollo, and I am currently the lead developer for
+[Apollo 3](https://apollo.jbrowse.org/).
 
-I joined the JBrowse team in 2018, just before work on JBrowse 2 started. I
-very much enjoy the remote format of the JBrowse development team, and am
-currently living in my home state of Utah.
+Prior to joining the lab, I was a bioinformatics developer at a small startup
+company. I've also worked as a technician in a DNA sequencing wet lab.
+
+I'm a remote member of the lab and live in my home state of Utah, so you're not
+likely to run into me on campus.
